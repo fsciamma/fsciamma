@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hello, I'm Filippo Sciammacca!
+
+I'm a **Computer Engineering Master's student** with a passion for **NLP** and **XAI**.
+
+### 🚀 About Me
+- 🔍 Currently diving deeper into **explainable decision models**.
+- 📖 Always looking to improve my ability to **understand and implement research papers**.
+- 🛠️ Experienced with **Python, C++, Java, and LaTeX**.
 
 <!--
-**fsciamma/fsciamma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Featured Projects
+🔹 [**Project Name**](https://github.com/your-repo) – Short description of the project.
 
-Here are some ideas to get you started:
+🔹 [**Another Cool Project**](https://github.com/your-repo) – Another short description.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔹 [**Open Source Contribution**](https://github.com/your-repo) – A contribution you made.
+-->
+
+### 📊 GitHub Stats
+![Filippo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsciamma&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fsciamma&layout=compact&theme=radical)
+
+<!--
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your-email@example.com)
 -->
